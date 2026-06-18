@@ -1,0 +1,1 @@
+print("Python Class Practice By Ansh Lamba")
